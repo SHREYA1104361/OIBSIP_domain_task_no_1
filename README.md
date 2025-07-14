@@ -1,14 +1,14 @@
 # OIBSIP_domain_task_no_1
 
-# Iris Flower Classification Project 🌸
+# Iris Flower Classification Project 
 
-## 📌 Project Description
+##  Project Description
 
 The Iris flower dataset is a classic and simple multivariate dataset often used for classification problems in machine learning. The challenge is to build a predictive model that can accurately classify an Iris flower into one of the three species — **Setosa**, **Versicolor**, or **Virginica** — based solely on its physical dimensions: **sepal length**, **sepal width**, **petal length**, and **petal width**.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The primary goal of this project is to build a machine learning model that can classify Iris flowers into three species:
 - **Iris Setosa**
@@ -66,7 +66,7 @@ Visualized results using:
 
 ---
 
-## 🧰 Tools and Libraries Used
+##  Tools and Libraries Used
 
 - **Programming Language**: Python
 - **Development Environment**: Jupyter Notebook
@@ -79,7 +79,7 @@ Visualized results using:
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/uciml/iris)
 - **Features**:
@@ -95,7 +95,7 @@ Visualized results using:
 
 ---
 
-## ✅ Outcomes
+## Outcomes
 
 - Achieved **95%+ accuracy** using Random Forest and XGBoost classifiers.
 - Random Forest Classifier showed the **best performance** with well-balanced **precision** and **recall**.
@@ -107,7 +107,7 @@ Visualized results using:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 This project provided a strong foundation in solving classification problems using machine learning. The Iris dataset served as an ideal entry point with clean and structured data. Through this project, we learned:
 
